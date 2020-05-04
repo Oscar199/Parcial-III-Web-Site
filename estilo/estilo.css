@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap');
+
+@charset "utf-8";
+/* CSS Document */
+
+div.jumbotron.jumbotron-fluid{
+	background-color:#165374;background-image:radial-gradient(89321)
+}
+
+nav{ color: aqua;
+	font-family: 'Lexend Exa', sans-serif;
+}
+
+h1{ 
+	font-size: 99px;
+	font-family: 'Lexend Exa', sans-serif;
+	color: whitesmoke
+}
+p1{font-family: 'Montserrat Alternates', sans-serif;
+	color: #165374
+}
+p2{
+	font-family: 'Montserrat Alternates', sans-serif;
+	color: #165374
+}
+p3{font-family: 'Montserrat Alternates', sans-serif;
+	color: #165374
+}
+p{
+	font-family: 'Montserrat Alternates', sans-serif;
+	color: #ECECEC
+}
+p5{font-family: 'Montserrat Alternates', sans-serif;
+	color: #ECECEC}
+
+.btn btn-success
+
+.btn{
+	color: #292929;
+  background-color:#165374;
+  border-color:#165374;
+	
+}
+
+.btn-primary{
+	color: #EDEDED;
+	background-color:#165374;
+	border-color: #165374;
+}
+
+.btn-primary:hover {
+  color:#3E3E3E;
+  background-color:#1AD7FF;
+  border-color:#1AD7FF;
+}
+
+.btn-primary:focus, .btn-primary.focus {
+  color: #323232;
+  background-color: #1AD7FF;
+  border-color: #1AD7FF;
+  box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
+}.nombreMarca {
+}
